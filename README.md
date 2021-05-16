@@ -6,7 +6,7 @@ Dana’s has a webpage with a dynamic table working as intended, but she’d lik
 ## Results
 It's fairly simple to use the search options on the page, to do a single search you just need to type into the box one of the options that appears in the table and then either hit 'enter' or click off the input box. In the example below I've typed '1/10/2010' into the 'Enter Date' filter:
 
-![Date Search](static/images/DateSearch)
+![Date Search](static/images/DateSearch.png)
 
 And if you want to get even more granular you can do the same with multiple boxes. In the below example I've input '1/10/2010' into 'Enter Date', 'san jacinto' into 'Enter a City', 'ca' into 'Enter a State' and 'us' into 'Enter a Country':
 
